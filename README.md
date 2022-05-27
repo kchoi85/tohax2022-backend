@@ -1,4 +1,5 @@
 # tohax2022-backend
 
-[] npm install --global yarn
-[] yarn start
+- npm install --global yarn
+- create .env file at the root of tohax2022-backend/
+- yarn start
