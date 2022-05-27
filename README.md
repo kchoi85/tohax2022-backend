@@ -4,3 +4,5 @@
 - create .env file at the root of tohax2022-backend/
 - yarn
 - yarn start
+
+test
